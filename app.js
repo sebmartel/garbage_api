@@ -51,4 +51,4 @@ var get_garbage_data = function(full_address) {
 };
 console.log('************************************************************');
 
-get_full_address(address1, get_garbage_data);
+get_full_address(address, get_garbage_data);
