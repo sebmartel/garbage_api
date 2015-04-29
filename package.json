@@ -1,0 +1,17 @@
+{
+  "name": "garbase_api",
+  "version": "0.0.1",
+  "dependencies": {
+    "json-parser": "^0.2.4",
+    "request": "*"
+  },
+  "repository": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": ""
+  }
+}
